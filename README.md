@@ -10,6 +10,6 @@ remove rear_panel_bracket (5pcs) frist
 * 8x Neodymium Magnet 6mm X 3mm (minimum)
 * 3M scotch flexi tape or VHB tape
 * ca glue, super glue
-* 
+
 ## Files
 * CAD files (.SLDPRT) are provided if you want to custom it.
