@@ -1,7 +1,7 @@
 # Back panel magnet clip Voron Switchwire
 Compatible with Voron Switchwire and [boubounokefalos Ender 3 Pro/V2 to Switchwire Conversion](https://github.com/boubounokefalos/Ender_SW).
 
-![alt text](Pictures/magnet_clip_assembly.png)
+![alt text](https://github.com/HiyoriC3/Back_panel_magnet_clip_Voron_Switchwire/blob/main/Pictures/magnet_clip_assembly.PNG?raw=true)
 
 remove rear_panel_bracket (5pcs) frist
 4 pairs should be enough but you can print 2 pairs more for top side.
