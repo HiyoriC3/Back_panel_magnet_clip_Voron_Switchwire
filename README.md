@@ -3,8 +3,9 @@ Compatible with [Official Voron Switchwire](https://github.com/VoronDesign/Voron
 
 ![alt text](https://github.com/HiyoriC3/Back_panel_magnet_clip_Voron_Switchwire/blob/main/Pictures/magnet_clip_assembly.PNG?raw=true)
 
-remove rear_panel_bracket (5pcs) frist
-4 pairs should be enough but you can print 2 pairs more for top side.
+## Info
+*remove rear_panel_bracket (5pcs) frist.
+*4 pairs should be enough but you can print 2 pairs more for top side.
 
 ## Parts required
 * 4x for_back_panel (minimum)
